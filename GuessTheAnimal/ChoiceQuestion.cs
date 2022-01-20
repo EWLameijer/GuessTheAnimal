@@ -1,4 +1,4 @@
-﻿namespace GuessTheAnimal
+﻿namespace GuessTheConcept
 {
     internal class ChoiceQuestion : Question
     {
